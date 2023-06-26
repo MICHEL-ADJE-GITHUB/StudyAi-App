@@ -1,14 +1,15 @@
 ### Study Genius - Smart Learning Platform for Students
 
-##What is Study Genius?
-Study Genius is a revolutionary learning platform that uses artificial intelligence technologies to deliver a personalized and effective learning experience for students. 
+What is Study Genius?
 
+Study Genius is a revolutionary learning platform that uses artificial intelligence technologies to deliver a personalized and effective learning experience for students. 
 Study Genius aims to revolutionize student learning by making education more accessible, personalized and engaging. Through its innovative platform, students can explore a world of knowledge, develop their skills and reach new academic heights.
 
-##How is Study Genius built?
+How is Study Genius built?
+
 Developed by Salomon DIEI and Michel ADJETEY, this project is based on a set of powerful tools such as Pinecone, Flutter, FastApi, Langchain and Supabase.
 
-##Main tools used:
+Main tools used:
 
 - Pinecone: a technology that allowed us to vectorize text and documents that were then stored in indexes by namespaces directly on pinecone. This approach also allowed us to refine the results of treatments by using the search for similarity in our vectors.
 
@@ -30,6 +31,7 @@ List of features:
 - FlashPDF: The application will be able to generate flashcards according to the courses that will be uploaded
 - QuizPDF: The application will be able to generate quizzes on the courses that have been uploaded
 
-##Contribution and future development
+Contribution and future development
+
 The Study Genius project is open to contributions and suggestions for improvement.
 We encourage contributions to Study Genius. If you wish to participate in the development of the project or suggest new features, do not hesitate to contact us.
